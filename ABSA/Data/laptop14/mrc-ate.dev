@@ -1,0 +1,4260 @@
+[
+  {
+    "category_span": [],
+    "context": "The other day I had a presentation to do for a seminar at a large conference in town lots of people , little time to prep and have to set up a computer to a projector , etc .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "0.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I took it back for an Asus and same thing blue screen which required me to remove the battery to reset .",
+    "end_position": [
+      18
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      18
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Toshiba does not send any one out unless you have paid extra to have the on site repair done .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "2.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Oh , boy !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "3.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "But while this is one big advantage as you may know from the company s recent commercials there are other things to consider before going with Apple .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "4.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I love the way the entire suite of software works together .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "5.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Pairing it with an iPhone is a pure pleasure , talk about painless syncing , used to take me forever , now it 's a snap .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "6.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I shopped around before buying .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Has met or exceeded my needs for a compact travel device .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "8.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I sent it back to Toshiba twice they covered it under the warranty .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "9.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "They sent me a replacement part and without informing me are requiring that I return it within 15 days or contact them and let them know the broken part will be returned later .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "In desparation , I called their Customer Service number and was told that my warranty had expired 2 days old and that the priviledge of talking to a technician would cost me have your credit card ready .",
+    "end_position": [
+      8,
+      14,
+      28
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "11.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6,
+      14,
+      25
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Amazing Quality !",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "12.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It does run a little warm but that is a negligible concern .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "what an elegant , wonderful machine .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Do you ever think HP would do that ? NEVER !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed .",
+    "end_position": [
+      3,
+      14,
+      17
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "16.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      14,
+      17
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "The Genius at the Apple store advised me that there was nothing about my use of the computer that caused this failure .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "17.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "The Apple MC371LL/A 24Ghz 154-inch MacBook Pro Notebook is a horrible waste of money .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "18.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "If you find yourself in the market for a new laptop and have the money do n't exclude looking at the MBPs .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "19.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Those things are very important , vital even !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "20.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I have now had it for 15 months and love it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "21.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Trying to balance all of my roles leaves very little time for me to do anything , so I want to manage my time I do have to be the most efficient .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "22.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It would take up too much time to do reaearch for my papers and I would be up hours-just because the computer was too slow .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "23.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "i 'm returning mine",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "24.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It weighed like seven pounds or something like that .",
+    "end_position": [
+      1,
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "25.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      3
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "With a healthy pessimism , I took the machine home and tried to find a flaw .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "26.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "And not to mention after using it for a few months or so , the battery will slowly less and less hold a charge until you ca n't leave it unplugged for more than 5 minutes without the thing dying .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "27.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      15
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It absolutely is more expensive than most PC laptops , but the ease of use , security , and minimal problems that have arisen make it well worth the pricetag .",
+    "end_position": [
+      14,
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "28.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14,
+      16
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I wish the volume could be louder and the mouse did n't break after only a month .",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "29.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "the only fact i do n't like about apples is they generally use safari and i do n't use safari but after i install Mozzilla firfox i love every single bit about it .",
+    "end_position": [
+      13,
+      19,
+      25
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "30.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      13,
+      19,
+      24
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Great battery , speed , display .",
+    "end_position": [
+      1,
+      3,
+      5
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "31.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "they improved nothing else such as Resolution , appearance , cooling system , graphics card , etc .",
+    "end_position": [
+      6,
+      8,
+      11,
+      14
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "32.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6,
+      8,
+      10,
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "now he mows yards so he can earn the money for the wireless internet .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "33.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Additional caveat , the base installation comes with some Toshiba-specific software that may or may not be to a user 's liking .",
+    "end_position": [
+      5,
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "34.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      10
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "High price tag , however .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "35.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Buy this .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "36.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The processor a AMD Semprom at 21 ghz is a bummer it does not have the power for HD or heavy computing .",
+    "end_position": [
+      1,
+      21
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "37.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      21
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I love the 15 MacBook Pro .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "38.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "breaks easily .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "39.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "They sent out the box right away for me to send in my computer , they paid postage and whatnot , but when I got my computer back it still was n't running right , and now my CD drive was n't reading anything !",
+    "end_position": [
+      32,
+      39
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "40.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      32,
+      38
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I bought this laptop Was the worst Laptop I 've ever bought .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "41.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Yeah , of course smarty pants fix it nowASPECT1 , Compared to the early 2011 edition I did see inbuilt applications crashing and it prompted me to send the report to Apple which I promptly did .",
+    "end_position": [
+      20
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "42.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      19
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Summary , Dont buy HP .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "43.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I think part of the problem with this computer is Vista , yet I know Vista is n't the entire issue because my latest purchase was my Acer and it also has Vista I should have waited the few months to get the next operating system .",
+    "end_position": [
+      10,
+      15,
+      32,
+      45
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "44.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      10,
+      15,
+      32,
+      44
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "That whole experience was just ridiculous we sent it in and after they told us that we had to pay $ 175 to fix it we were like we will just by a portable mouse which would be way cheaper but they refused to send the laptop back until we paid the $ 175 and it was fixed .",
+    "end_position": [
+      34
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "45.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      34
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "-I give up on my data , I just want a computer reasonably fast .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "46.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "it was shooting sparks !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "47.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Tech support tells me the latter problem is a power supply problem and have offered to fix it if it happens again .",
+    "end_position": [
+      1,
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "48.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0,
+      9
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "upon giving them the serial number the first thing I was told , was that it was out of warranty and I could pay to have it repaired .",
+    "end_position": [
+      19
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "49.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      19
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Laptop was in new condition and operational , but for the audio problem when 1st sent for repair .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "50.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I was disappointed when I realized that the keyboard does n't light up on this model .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "51.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The laptop was very easy to set up .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "52.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Well , maybe I was just very unlucky .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "53.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I loaded windows 7 via Bootcamp and it works flawlessly !",
+    "end_position": [
+      3,
+      5
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "54.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      5
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I have never had to shut down the computer unexpectedly and the computer has never froze on me .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "55.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I hate the display screen and I have done everything I could do the change it .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "56.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "this computer will last you at least 7 years , thats an amazing life spanned an electronic .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "57.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I am very pleased with my purchase !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "58.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I ca n't say enough of how satisfied I am with their product and help aftermarket .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "59.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "-Called MacHouse Amsterdam to ask for a temporary replacement , no answer .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "60.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I bought it during the recent Comex IT show .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "61.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I have had nothing but problems since the day I took it out of the box !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "62.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The image is great , and the soud is excelent .",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "63.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      7
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Where you click and hold and drag it picture , link , etc to where you want it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "64.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "The macbook rarely requires a hard reboot .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "65.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I LOVE it !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "66.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Now for the hardware problems .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "67.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It was an all around waste of money for me .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "68.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "also it is light weight compared to others .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "69.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Waiting for the i7 was well worth it , great value for the price .",
+    "end_position": [
+      3,
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "70.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I asked how they would determine that since there are no scratches , dents or other signs of damage and was told that was the only way this type of damage could happen .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "71.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The Macbook arrived in a nice twin packing and sealed in the box , all the functions works great .",
+    "end_position": [
+      7,
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "72.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6,
+      16
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Reason why ? It 's because when you buy it , you know first thing that you will not lose any value for that laptop , the price will stay the same for the next year , and even if Apple does decides to change mode , your laptop value will only drop 10-20 % , unlike PC laptops which drop more than 80 % .",
+    "end_position": [
+      21,
+      27,
+      49
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "73.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      21,
+      27,
+      49
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "So , buyers beware !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "74.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Do I like the computer ? Well , other than not getting viruses , I guess it is OK .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "75.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Its a dog plain and simple .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "76.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "My HP is very heavy .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "77.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Best Buy was great as always and accepted the return and gave me another model 1764 .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "78.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I can actually get work done with this MAC , and not fight with it like my tired old PC laptop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "79.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "And I 'm still paying the bloody financing , for a product which did n't last me at least three years !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "80.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Games being the main issue .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "81.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "While the computer seems to be set up in a common sense way rather than in geek-speak , there are certain quirks that can drive you crazy trying to deal with the PC world .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "82.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Thank God for ctrl ZBottom line , I 've been using laptops since the mid 90s and probably the majority of brands out there .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "83.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Even with virus protection , it always turned off when updates were needed and installed .",
+    "end_position": [
+      3,
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "84.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      10
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Even so , I like playing online games , so it was wonderful that there is a feature where I can dualboot Windows .",
+    "end_position": [
+      7,
+      17,
+      22
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "85.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7,
+      17,
+      22
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "That 's the downside for me .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "86.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It has good speed and plenty of hard drive space .",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "87.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      7
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It 's so useable and responsive .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "88.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It has come into good use for my finances , scheduling , my parents business expenses , and it is definitely amazing for gaming .",
+    "end_position": [
+      5,
+      23
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "89.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5,
+      23
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It was weird .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "90.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I visited the Apple Store and was impressed with the 17-inch MacBook Pro .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "91.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Looking to take my video and photo editing to the next level , I decided to purchase the MBP 15in Intel Core i5 after reading consumer reviews as well as professional reviews of this laptop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "92.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It doesnt work worth a damn .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "93.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "i will be returning it and switching brands when i get to best buy .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "94.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Product support very poor as each phone call costs me long distan",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "95.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Frustrated I hung up and tried to call back 3 days later to be told that it takes 2-3 days for turnaround time .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "96.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "May be better for the occasional web surfer .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "97.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Not super fancy , but not super expensive either .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "98.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The lcd screen stopped working on mine after 10 months .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "99.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I 'm going back to PC .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "100.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Great , quick laptop for the money .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "101.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "with the switch being at the top you need to memorize the key combination rather than just flicking a switch .",
+    "end_position": [
+      2,
+      19
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "102.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      19
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Until I bought the Dell , I thought you just looked for what you wanted size , software , options , hardware and purchase the best deal you could find .",
+    "end_position": [
+      15,
+      17,
+      21
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "103.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      15,
+      17,
+      21
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It is easy to go from one keyboard to another .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "104.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Has a 5-6 hour battery life .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "105.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "First it burned or fused the power adapter plug .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "106.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "107.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Navigation through the computer is far superior compared to Windows operating systems , as well .",
+    "end_position": [
+      0,
+      11
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "108.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0,
+      9
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Once you go Mac , you ca n't go back !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "109.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Fan noise , The fan made a constant hissing noise in the background .",
+    "end_position": [
+      0,
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "110.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "So needless to day , I 'm not happy .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "111.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Plain and simple , itlaptop runs great and loads fast .",
+    "end_position": [
+      5,
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "112.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5,
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "of course my warranty runs out next month .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "113.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The capabilities using that program alone made me want a Mac .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "114.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "If you ever see the spinning beachball come up when you think it should n't , check the Activity Monitor app to see if the disk throughput has temporarily dropped to zero .",
+    "end_position": [
+      6,
+      26
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "115.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5,
+      25
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I have found also , it is very easy to be able to access wireless internet access ;",
+    "end_position": [
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "116.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "That was a big mistake .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "117.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Small enough to use on a long flight , Light enough to carry through airports and powerful enough to replace my desktop while on long business trips .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "118.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "If you are looking for a netbook pc DO NOT BUY FROM ASUS ! ! !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "119.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "We have n't had any problems with it at all .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "120.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It meets all my needs for work and pleasure while traveling .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "121.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "He said quite a number of people had encountered this problem and said it is a common issue .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "122.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Much of which HP ended up paying for .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "123.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The pictures are clear as can be .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "124.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "You have to toss out the wifi card and replace it just to have any sort of network capability .",
+    "end_position": [
+      7,
+      18
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "125.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6,
+      17
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It 's perfect for everything and runs faster than an average pc !",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "126.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Then after paying for it to be examined I was told it was same problem cited on website but I 'd have to pay anyways since it was past warrenty .",
+    "end_position": [
+      29
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "127.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      29
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It 's so bad that I 'm thinking I only got half a battery or something .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "128.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It is just slow slow slow .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "129.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I wiped nearly everything off of it , installed OpenOffice and Firefox , and I am operating an incredibly efficient and useful machine for a great price .",
+    "end_position": [
+      9,
+      11,
+      26
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "130.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      9,
+      11,
+      26
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Overall I feel this netbook was poor quality , had poor performance , although it did have great battery life when it did work .",
+    "end_position": [
+      7,
+      11,
+      19
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "131.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7,
+      11,
+      18
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "MY ONLY PROBLEM IS I CAN NOT REG THE PRODUCT KEY .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "132.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Sure it has the one touch keys but that was the best feature of the computer .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "133.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I can do pretty much 75 % of what I do on my desktop on my kitchen table .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "134.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Love the stability of the Mac software and operating system .",
+    "end_position": [
+      2,
+      6,
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "135.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I left the place angrily .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "136.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It is so great , I can Hardly ever take my hands off it !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "137.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "My real problem with it ? The statement of 7 hour battery life is not just mere exaggeration - it 's a lie .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "138.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "She said Wal Mart rants and raves abouy carring Dell because it 's a big name but they are a piece of garbage .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "139.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I use iphoto all the time , which is a great program for anyone who is into photography , amateurs and experts alike .",
+    "end_position": [
+      2,
+      11
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "140.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      11
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I hate it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "141.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I thought the price was great for the specs .",
+    "end_position": [
+      3,
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "142.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      8
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Just for a stupid CD .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "143.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "This just keeps having it 's hard drive replaced !",
+    "end_position": [
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "144.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I do not experience a lot of heat coming out of it , however I would highly suggest purchasing a stand however , due to the nature of the design of the macbook as it is one very large heat sink .",
+    "end_position": [
+      20,
+      29,
+      40
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "145.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      20,
+      29,
+      39
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "There is NO way I will buy a LG product in the future .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "146.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Maybe this is virus related , maybe not , but the computer has locked up many times , and on two occasions , the screen has simply gone black .",
+    "end_position": [
+      24
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "147.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      24
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Using this machine is like a mild form of torture .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "148.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Whenever tried to turn it on , it would restart as soon as the BIOS launched Windows or Winblows , as I like ot call it .",
+    "end_position": [
+      14,
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "149.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14,
+      16
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I run windows via bootcamp for the couple programs I do not want to buy a mac version of , like my cad programs .",
+    "end_position": [
+      2,
+      4,
+      8,
+      23
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "150.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      4,
+      8,
+      23
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I love this laptop , and use it everyday to do something , and never lets me down .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "151.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It took Toshiba tech support 4 calls and 4 different techs to correct the problem .",
+    "end_position": [
+      4,
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "152.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      10
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "The 4 USB ports are nice , but the two on the side only work now and then .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "153.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It out performs any other laptop on the market today .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "154.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "This is what I call a good after sales service .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "155.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It is short on space , and downloads always had problems being completed , or were said to be corrupted ' .",
+    "end_position": [
+      4,
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "156.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Apple is always great about the aesthetics of things , they always come up with good looking products .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "157.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "The MacBook Pro is very sturdy and versatile .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "158.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which did n't come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good .",
+    "end_position": [
+      56
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "159.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      55
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Oh yea , has no numeric pad on the side .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "160.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It would be a load on long trips where a lot of walking is required .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "161.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The battery life is amazing , the versitility is outstanding .",
+    "end_position": [
+      2,
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "162.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "the hinge design forced you to place various connections all around the computer , left right and front .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "163.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I would definitely not go back to using a PC after using the mac .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "164.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The screen graphics and clarity , and sharpness are great .",
+    "end_position": [
+      2,
+      4,
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "165.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very use for designers .",
+    "end_position": [
+      1,
+      6,
+      17,
+      32
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "166.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      6,
+      17,
+      32
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "You will fall in love with it in no time .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "167.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Best thing is I can use existing 32 bit old programs .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "168.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It 's still beautiful and has better color reproduction than I could ever expect from a notebook .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "169.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "170.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Overall , it 's ok .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "171.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "/ awesome cooling system much better grafics card ATI 5870 / 8GB RAM LED backlit screen .",
+    "end_position": [
+      3,
+      7,
+      15
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "172.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      6,
+      11
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Compared to similarly spec 'd PCs , this machine is good value , well built and works easily right out of the box .",
+    "end_position": [
+      11,
+      14,
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "173.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      11,
+      14,
+      16
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "The cool thing about the Mac Book was that I went on my honeymoon and shot a bunch of pictures and movies with my iPhone , then I came back and put them onto my Macbook and made a pretty good DVD movie with all the pictures and videos from my trip .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "174.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "After 4 days , being denied 6 times and told off once , I managed to get through and was able to send them a scanned copy of the receipt .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "175.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It was secure and easy to navigate .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "176.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The machine has a bluray player the book has no mention of it or how to connect it to your HDTV .",
+    "end_position": [
+      5,
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "177.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      7
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Asus facial recognition does n't work and windows logon is n't either .",
+    "end_position": [
+      2,
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "178.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      7
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "So buyer beware when buying Toshiba",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "179.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The minute you fire it up it 's all good , very easy user interface .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "180.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I have had two Toshiba satellite computers and while they are okay , they are in no way comparable to the Mac .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "181.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired .",
+    "end_position": [
+      29
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "182.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      29
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "After replacing the hard drive the battery stopped working 3 months of use which was frustrating .",
+    "end_position": [
+      4,
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "183.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I love the easy to see screen , and It works well for work , persoal or just play .",
+    "end_position": [
+      6,
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "184.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6,
+      10
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "One drawback I noticed was sound quality via USB .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "185.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I am not going to sit here and complain about it not having a cd drive and what not because it is a netbook , it is made to be compact and if you want all the other stuff get a laptop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "186.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I was psyched .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "187.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "If I have a few hundred dollars to spare , I 'd buy the Pro line though , the 253 and 266 GHz model .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "188.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Needs Power and Mouse Cable to Plug in back instead of side , In the way of operating a mouse in small area .",
+    "end_position": [
+      4,
+      19
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "189.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      19
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It seems to be incompatible with everything else .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "190.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "We use the built in tools often , iTunes is open nearly every day and works great with my iPhone .",
+    "end_position": [
+      5,
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "191.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "192.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "We are addicted to the Mac .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "193.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Maybe three or four months ago it started blinking all of the sudden .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "194.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "everything about a mac is wonderful , it takes a little used to learning and getting used to the new system , but you will learn fast and its all worth it .",
+    "end_position": [
+      20
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "195.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      20
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I also bought one for my wife , and 3 for my office .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "196.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The only thing I can imagine is that Sony jumped on early specifications for Vista requirements from Microsoft and designed it to those inadequate requirements .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "197.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "The mouse is a little bit different than what you 're used to though it has one big flat panel and one full bar instead of two separate ones to click with but you get used to it quite quickly .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "198.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "It took several weeks just to get them to acknowledge that I owned the warranty .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "199.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It was a huge monstrosity of a Laptop !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "200.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "-I propose that they can just swap the hard drives .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "201.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "202.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "203.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I can see why the have soooo much money .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "204.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Iphoto is great for adding pictures right to facebook and other social networking sites .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "205.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "In early May I got it back and this time I only had it back for 1 day before it had a NEW issue so it was sent back in for the 6th time they expedited the repairs so I was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a Senior Tech .",
+    "end_position": [
+      63
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "206.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      62
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I would never buy a Dell again .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "207.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "For me , keys were starting to get stuck and would n't type very well .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "208.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "This is still a fairly good upgrade to a laptop that was about 4 years old .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "209.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The computer was shipped to their repair depot on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "210.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "My friends are in awe every time they come over !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "211.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I work in film editing and post production , so I need a laptop that not only has power , but memory and speed as well .",
+    "end_position": [
+      18,
+      21,
+      23
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "212.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      18,
+      21,
+      23
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "At first when I got this product , I loved it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "213.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "THIS is what a laptop is supposed to be .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "214.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Then I 've fixed the DC jack inside the unit , rewired the DC jack to the OUTside of the laptop , replaced the power brick .",
+    "end_position": [
+      6,
+      14,
+      25
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "215.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5,
+      13,
+      24
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It is easy to use , has great screen quality , and every so light weight .",
+    "end_position": [
+      4,
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "216.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      8
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I 've been having endless problems since I bought the computer , only 1 month ago",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "217.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I wanted to spend around $ 700 to $ 800 so I was directed to a nice looking HP Laptop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "218.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I 've had my Macbook Pro since August 2009 .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "219.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Unfortunately , the laptop I purchased was also a Dell and again , I have to say i hated it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "220.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years , I find not much difference except of course for the screen size .",
+    "end_position": [
+      36
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "221.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      35
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Everything about the Mac is not only visually appealing , but very easy to use .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "222.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "But if you ca n't make your product last more than a year , you will not get my business again .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "223.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Seems like maybe a bad shipment from Toshiba .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "224.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Currently if I use the laptop I ca n't sit it on my lap because it will burn my legs .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "225.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I can leave my MacBook uncharged for upwards of eight hours and it wo n't even be dead .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "226.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I do find that my MacBook has a lot more bells and whistles than a normal PC especially if you enjoy technology , downloading pictures and graphic design .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "227.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "First the screen goes completely out .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "228.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I 'm learning the finger options for the mousepad that allow for quicker browsing of web pages .",
+    "end_position": [
+      8,
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "229.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      8,
+      13
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "We researched and found the best price at MacConnection .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "230.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I droped this once from thetable when my baby girl grabed me one day and IT is still working with NO issues !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "231.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "returned it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "232.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It is a cheap throw together .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "233.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "It easily fits into most computer bags but does n't weigh down a backpack or satchel when being carried with spirals and/or textbooks .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "234.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "I actually had the hard drive replaced twice , the mother board once , the dvd drive twice , then they FINALLY agreed to replace it , ALL OF THIS IN LESS THAN 1 1/2 YEARS !",
+    "end_position": [
+      5,
+      11,
+      16
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "235.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      10,
+      15
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The guy then said that if I insist on having the hinge tightened , they can do it for me but I have to accept the condition after the repair .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "236.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I 've been a PC user and I just finally switched and I am never going back .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "237.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Will certainly use MacConnection again .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "238.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "So you might ask , what did Apple do for me ?",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "239.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The ease of set up was terrific .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "240.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "This was around three years , maybe four years ago .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "241.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Please , anyone who is considering getting this computer , stop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "242.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I had my computer custom built from Sonystylecom .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "243.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "This computer is really fast and I 'm shocked as to how easy it is to get used to .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "244.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "From the get-go , the M6809 was unsteady in its operation ;",
+    "end_position": [
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "245.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "One of the wonderful things about Macs is that they are virus free .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "246.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "After 5 months of failed repairs , requested a full refund but was refused and it still is not repaired and Acer is indifferent to the issue .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "247.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "You better believe my next computer will be a MAC !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "248.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "With all the programs that came with it , such as iLife and iWork , I was set from the very beginning .",
+    "end_position": [
+      3,
+      11,
+      13
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "249.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      11,
+      13
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Best Buy laughed when I told them they should replace it instead of expecting me to be without a computer again for another couple of weeks .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "250.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "There are no gold key numbers too intall programs , you must use the serial numbers that it does not accept and then things are limited as far a working because they are only good for a short time .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "251.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "If you want a little more custom ability , drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more .",
+    "end_position": [
+      24,
+      31
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "252.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      23,
+      28
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Speakers too small to be of any real use .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "253.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "This is a great computer .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "254.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The battery never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes .",
+    "end_position": [
+      1,
+      5,
+      18
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "255.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      5,
+      18
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I paid $ 800 for this computer from my school campus bookstore .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "256.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The neat and organized icon list is a welcome change from cluttered and confusing desktop icons .",
+    "end_position": [
+      5,
+      15
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "257.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Buyer Beware .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "258.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The Toshiba laptop I am using is easier to use than most I have tried .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "259.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The battery never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes .",
+    "end_position": [
+      1,
+      5,
+      18
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "260.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      5,
+      18
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "See when it comes to laptops you buy it and get just a normal operating system with trials of must need stuff that should come with it .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "261.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "At first it 's like you 're in that honeymoon stage with your laptop .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "262.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I especially like the backlit keyboard .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "263.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Besides the great look , it is a great machine .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "264.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Took it back as it was defective .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "265.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "This system is not worth the money or trouble trying to get it fix .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "266.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I purchased it this year when my old HP laptop finally died and I was looking for something smaller and lighter than a laptop to carry around for classes and traveling .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "267.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I bought this eMachines Notebook PC in January of this year and I am highly dissatisfied with it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "268.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "Even though the computer is larger they did not make the keyboard larger .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "269.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It is VERY easy to type on and feels great , besides the added feature that the keyboard is lighted .",
+    "end_position": [
+      5,
+      14,
+      17
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "270.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      5,
+      14,
+      17
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The feel of this machine compared to the old MacBook is far superior .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "271.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "Thank you .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "272.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I saved for this laptop for 3 months and I can tell you personally it was worth the wait .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "273.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "I have had no problems with it unlike some hardware defects on past models .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "274.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I have used different laptops in the past and I have to rate this one way above the rest .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "275.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "The quality , engineering design and warranty are superior -- covers damage from dropping the laptop .",
+    "end_position": [
+      1,
+      4,
+      6
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "276.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It is SO much fun to play with .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "277.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "If this is an improvement in Customer Service then I would hate too see what it was before !",
+    "end_position": [
+      7
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "278.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Sure , the initial out of pocket expense is greater , but that should not dissuade anyone from the fact that these machines run like none other on the planet , and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs , it probably comes out about even anyhow .",
+    "end_position": [
+      7,
+      23
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "279.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      7,
+      23
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I am glad I did my research .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "280.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "The netbook is easier for me to take to bed and carry around with me .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "281.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Externally the keys on my keyboard are falling off , after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit , and the screen has a terrible glare .",
+    "end_position": [
+      2,
+      5,
+      15,
+      24,
+      36
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "282.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      2,
+      5,
+      15,
+      20,
+      36
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The next time I had an issue my lightscribe would n't work .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "283.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "They don t translate from a Mac , even on Word , resulting in a ton of run-on sentences .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "284.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "In November my computer messed up entirely and would n't power on after intalling a Windows update , I had to have my HD flashed and lost EVERYTHING on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history .",
+    "end_position": [
+      16,
+      23,
+      64
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "285.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      15,
+      23,
+      64
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "It has been plagued with problems since the day i turned it on .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "286.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "Applications respond immediately not like the tired MS applications .",
+    "end_position": [
+      0,
+      8
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "287.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      0,
+      7
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "When I turned it on , nothing .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "288.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "They freeze all the time .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "289.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I sent it to them to fix in perfect condition but for what was wrong with it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "290.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "After paying over $ 1000 for this computer , it was not worth it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "291.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "Very happy with my 7th Toshiba laptop !",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "292.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "My wife recently purchased an Apple MacBook Pro and our granddaughter fell in love with it and asked for one for her birthday .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "293.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term"
+    ],
+    "context": "The price is great for this model , I only plan on using it for media in the entertainment room .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "294.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003 .",
+    "end_position": [
+      18,
+      22
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "295.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      16,
+      20
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "A tip for people looking into this computer , DO NOT BUY IT save up a bit more money and buy a computer that will last .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "296.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I was waiting for this model to be released since January , and have been holding off on buying a Macbook Pro until the new model came out .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "297.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "So i would not reccomend anyone buying this computer",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "298.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "The best thing is even while doing almost ten or twenty things at once , it never slows down .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "299.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [],
+    "context": "I took it to the shop and they said It would cost too much to repair it .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "300.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "We also use Paralles so we can run virtual machines of Windows XP Professional , Windows 7 Home Premium , Windows Server Enterprise 2003 , and Windows Server 2008 Enterprise .",
+    "end_position": [
+      3,
+      13,
+      18,
+      23,
+      29
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "301.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      3,
+      11,
+      15,
+      20,
+      26
+    ]
+  },
+  {
+    "category_span": [
+      "aspect term",
+      "aspect term"
+    ],
+    "context": "How Toshiba handles the repair seems to vary , some folks indicate that they were charged for even an intial fix , others had the repair done 5 times .",
+    "end_position": [
+      4,
+      25
+    ],
+    "entity_label": "aspect term",
+    "impossible": false,
+    "qas_id": "302.0",
+    "query": "detect aspect terms.",
+    "start_position": [
+      4,
+      25
+    ]
+  },
+  {
+    "category_span": [],
+    "context": "I have a business website and every time I have to change something I have to go to the public library to use a PC .",
+    "end_position": [],
+    "entity_label": "aspect term",
+    "impossible": true,
+    "qas_id": "303.0",
+    "query": "detect aspect terms.",
+    "start_position": []
+  }
+]

@@ -1,0 +1,15 @@
+CUDA_VISIBLE_DEVICES=0 python CCE/train-CCE.py \
+        --output_dir ./saved_models/DA-roberta-base-CCE-expand0.5 \
+        --model_type roberta \
+        --model_name_or_path roberta-base --cache_dir ../cache \
+        --data_path ./Data/CCE \
+        --do_train --do_eval \
+        --learning_rate 5e-5 \
+        --num_train_epochs 4 \
+        --per_gpu_eval_batch_size=40  \
+        --per_gpu_train_batch_size=16 \
+        --max_seq_length 512 \
+        --max_answer_length 512 \
+        --doc_stride 256 \
+        --save_steps 0 --logging_steps 0\
+        --n_best_size 20 --worker 5 --fp16 --expand_rate -0.5 --overwrite_output_dir --DA
