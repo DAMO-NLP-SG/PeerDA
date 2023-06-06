@@ -1,5 +1,5 @@
-# PeerDA
-PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks
+# PeerDA: Data Augmentation via Modeling Peer Relation
+This repository contains the implementation of our paper "PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks" (_ACL 2023_).
 <p align="center">
     <img src="intro_example.jpg" height="400"/>
 </p>
@@ -20,7 +20,7 @@ PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tas
 
 ## Dataset
 * Please refer to ```./$task/Data/$dataset``` (e.g. ```./NER/Data/wnut```) for the data files of each task.
-* For large datasets like OntoNotes5 and News20 SBPD, please download from official websites :point_right: [[OntoNotes5](https://drive.google.com/file/d/1OR3bDcPYIOru4EbP8WArDwSWbMJIZSSg/view?usp=sharing)][[News20 SBPD](https://drive.google.com/file/d/1Em1zGrgU-ywSVIXPUUcrl_5t931pfZDw/view?usp=sharing)]
+* For large datasets like OntoNotes5 and News20 SBPD, please download from official websites :point_right: [[OntoNotes5](https://drive.google.com/file/d/1OR3bDcPYIOru4EbP8WArDwSWbMJIZSSg/view?usp=sharing)][[News20 SBPD](https://drive.google.com/file/d/1Em1zGrgU-ywSVIXPUUcrl_5t931pfZDw/view?usp=sharing)].
 * For CCE data 
   1. Download the data directly from [CUAD](https://github.com/TheAtticusProject/cuad)
   2. Rename the train/test splits and Place the files in ``CCE/Data/*``
