@@ -5,22 +5,22 @@ PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tas
 </p>
 
 ## Requirements
-* python 3.7.3
-* pytorch 1.2.0 (also tested on pytorch 1.3.0)
-* transformers 4.1.1
-* numpy 1.16.4
-* tensorboardX 1.9
-* tqdm 4.32.1
+* python==3.7.3
+* pytorch==1.2.0 (also tested on pytorch 1.3.0)
+* transformers4.1.1
+* numpy==1.16.4
+* tensorboardX==1.9
+* tqdm==4.32.1
 
 
 ## Model
-* RoBERTa for NER, CCE, and SBPD
-* BERT-large-uncased for ABSA
+* roberta-base/large for NER, CCE, and SBPD
+* bert-large-uncased for ABSA
 
 
 ## Dataset
-* Please refer to the datasets of each task in ```./$task/Data/$dataset``` (e.g. ```./NER/Data/wnut```)
-* For large datasets, please get from here: [OntoNotes5](https://drive.google.com/file/d/1OR3bDcPYIOru4EbP8WArDwSWbMJIZSSg/view?usp=sharing) and [News20 SBPD](https://drive.google.com/file/d/1Em1zGrgU-ywSVIXPUUcrl_5t931pfZDw/view?usp=sharing).
+* Please refer to ```./$task/Data/$dataset``` (e.g. ```./NER/Data/wnut```) for the data files of each task.
+* For large datasets like OntoNotes5 and News20 SBPD, please download from official websites :point_right: [[OntoNotes5](https://drive.google.com/file/d/1OR3bDcPYIOru4EbP8WArDwSWbMJIZSSg/view?usp=sharing)][[News20 SBPD](https://drive.google.com/file/d/1Em1zGrgU-ywSVIXPUUcrl_5t931pfZDw/view?usp=sharing)]
 * For CCE data 
   1. Download the data directly from [CUAD](https://github.com/TheAtticusProject/cuad)
   2. Rename the train/test splits and Place the files in ``CCE/Data/*``
@@ -67,6 +67,8 @@ PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tas
       cd $task
       bash $script
       ```
+ ## Usage
+ TODO
 
 ## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
